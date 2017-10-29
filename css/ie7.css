@@ -1,0 +1,7 @@
+div.bloc { 
+  display:inline;
+}
+
+.child > span { 
+  zoom:1;
+}
