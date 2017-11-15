@@ -60,7 +60,7 @@
 
                             <p>Des questions à propos de votre projet ?</p>
 
-                            <p>Je suis là pour vous aider ! écrivez moi à ou appelez-moi.</p>
+                            <p>Je suis là pour vous aider ! Écrivez moi ou appelez-moi.</p>
 
                             <div class="row contact_links">
                                 <ul>
